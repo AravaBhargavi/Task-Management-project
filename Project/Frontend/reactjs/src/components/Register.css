@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://m.media-amazon.com/images/I/516OXeD4nhL._AC_UF1000,1000_QL80_.jpg");
+    background-size: 100%;
+    font-family: Cochin;
+    font-style: italic;
+    font-size: large;
+}
+.stack{
+    padding-left: 38%;
+}
+.queue{
+    padding-left: 13%;
+}
